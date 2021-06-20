@@ -1,0 +1,3 @@
+# Expense Recognition Principle
+There is set of rules which regulates the correct period in which expenses should be recorded. Companies cannot be allowed to manage this process on their own because they might be tempted to manage the recording of expenses in periods that are more favorable. 
+__Matching Principle:__ states that expenses incurred to generate revenue are recognized in the same period as the revenue. If sales are made in december 2016, the costs for these sales must be recorded too in 2016. Not all expenses can be tied to revenues like administrative costs and utility bills, and are usually recorded in period when they occur.
