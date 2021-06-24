@@ -9,4 +9,3 @@ Cash flow generation and liquidity are vital to all businesses. A company must b
 - It shows whether regular operations generate enough cash to sustain the business
 - It indicates whether enough cash is made to service existing debt and pay interest expenses. 
 - It shows whether the firm can invest in new opportunities when they arise.
-- 
